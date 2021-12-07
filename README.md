@@ -1,7 +1,7 @@
 ### Olá, eu me chamo Esdras Oliveira, mas você pode me chamar de ApenasEsdras
-- 🔭 estou estudando back-end com node.js
+- 🔭 estou estudando font-end com react.js
 - 🌱 conheço bem o JavaScript
-- 👯 se possivel gostaria de ajuda com node.js & sQl
+- 👯 se possivel gostaria de ajuda com react.js
 - 😄 Pronouns: ele/você.
 
 <div align="center">
