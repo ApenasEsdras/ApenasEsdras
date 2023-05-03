@@ -1,7 +1,6 @@
-### Olá, eu me chamo Esdras Oliveira, mas você pode me chamar de ApenasEsdras
-- 🔭 estou estudando font-end com react.js
-- 🌱 conheço bem o JavaScript
-- 👯 se possivel gostaria de ajuda com react.js
+### Olá, eu me chamo Esdras de Oliveira
+- 🔭 Me aprofundo no estudo de tecnologias e bibliotecas focadas no font-end
+- 🌱 Me especializadno em tack's JavaScript e Flutter.
 - 😄 Pronouns: ele/você.
  ##
  
@@ -14,9 +13,7 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-
-
-  ##
+  #
  
 <div> 
   <a href="https://www.youtube.com/channel/UCrnSDklw5W1jTxv7zT2h6DQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
