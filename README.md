@@ -4,7 +4,7 @@
 
 ## Principais Tecnologias e Habilidades
 - 💻 Experiência em JavaScript, TipeScript, NodeJs, ReactJs, Flutter, Dart, Cloud Functions, Google Cloud.
-// - 🚀 Projetos notáveis: [Se você tiver projetos interessantes, destaque-os aqui.]
+<!-- - 🚀 Projetos notáveis: [Se você tiver projetos interessantes, destaque-os aqui.]-->
 
 ## Contato
 - 📧 **E-mail:** [apenasesdras@gmail.com](mailto:apenasesdras@gmail.com)
@@ -15,18 +15,19 @@
 - ![Flutter](https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=flutter)
 - [Outras badges relevantes]
 
-// ## Contribuições e Estatísticas
-// - 📊 [Adicione estatísticas do seu perfil, como número de contribuições, linguagens mais usadas, etc.]
+<!-- ## Contribuições e Estatísticas
+- 📊 [Adicione estatísticas do seu perfil, como número de contribuições, linguagens mais usadas, etc.]
 
 //## Projetos Recentes
 // [Destaque alguns projetos recentes em que tenha trabalhado ou que considera importantes. Inclua links para os repositórios.]
-
+-->
 ## Interesses
 - 📚 Sempre em busca de novos conhecimentos e desafios.
 - 🌐 Interessado em participar de projetos inovadores e colaborativos.
-
-//## Redes Sociais
-//[Se você tiver outras redes sociais relevantes para sua área, inclua-as aqui.]
+<!--
+## Redes Sociais
+[Se você tiver outras redes sociais relevantes para sua área, inclua-as aqui.]
+-->
 
 ## Obrigado por visitar meu perfil!
-//[Adicione uma mensagem de agradecimento para quem visita o seu perfil.]
+<!--[Adicione uma mensagem de agradecimento para quem visita o seu perfil.]-->
