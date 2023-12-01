@@ -8,7 +8,7 @@
 
 ## Contato
 - 📧 **E-mail:** [apenasesdras@gmail.com](mailto:apenasesdras@gmail.com)
-- 🔗 **LinkedIn:** [Esdras Soares de Oliveira](https://www.linkedin.com/in/esdras-soares-de-oliveira-283528210/)
+- 🔗 **LinkedIn:** [Esdras Soares de Oliveira](https://www.linkedin.com/in/esdrasdeoliveira/)
 
 ## Status
 - ![React.js](https://img.shields.io/badge/React.js-Expert-blue?style=for-the-badge&logo=react)
