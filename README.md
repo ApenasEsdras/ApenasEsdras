@@ -1,13 +1,14 @@
-# Bem vindo, Sou o Esdras de Oliveira...
+# Bem-vindo, Sou o Esdras de Oliveira...
 - 🔭 Atualmente, estou mergulhando no estudo de tecnologias e bibliotecas voltadas para o desenvolvimento web e mobile.
-- 🌱 Estou me especializando em React.js para o front-end e Flutter para o desenvolvimento mobile.
+- 🌱 Estou me especializando em React.js para o front-end ![React.js](https://img.shields.io/badge/-Expert-blue?style=for-the-badge&logo=react&logoColor=white), Flutter para o desenvolvimento mobile ![Flutter](https://img.shields.io/badge/-Intermediate-blue?style=for-the-badge&logo=flutter&logoColor=white), TypeScript ![TypeScript](https://img.shields.io/badge/-Intermediate-blue?style=for-the-badge&logo=typescript&logoColor=white), Dart ![Dart](https://img.shields.io/badge/-Intermediate-blue?style=for-the-badge&logo=dart&logoColor=white), Cloud Functions, Google Cloud ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?style=for-the-badge&logo=google-cloud&logoColor=white).
 
 ## Principais Tecnologias e Habilidades
-- 💻 Experiência em JavaScript, TipeScript, NodeJs, ReactJs, Flutter, Dart, Cloud Functions, Google Cloud.
+- 💻 Experiência em JavaScript, TypeScript ![TypeScript](https://img.shields.io/badge/-Intermediate-blue?style=for-the-badge&logo=typescript&logoColor=white), Node.js, React.js ![React.js](https://img.shields.io/badge/-Expert-blue?style=for-the-badge&logo=react&logoColor=white), Flutter ![Flutter](https://img.shields.io/badge/-Intermediate-blue?style=for-the-badge&logo=flutter&logoColor=white), Dart ![Dart](https://img.shields.io/badge/-Intermediate-blue?style=for-the-badge&logo=dart&logoColor=white), Cloud Functions, Google Cloud ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?style=for-the-badge&logo=google-cloud&logoColor=white).
+
 <!-- - 🚀 Projetos notáveis: [Se você tiver projetos interessantes, destaque-os aqui.]-->
 
 ## Contato
-- 📧 **E-mail:** [apenasesdras@gmail.com](mailto:apenasesdras@gmail.com)
+- 📧 **E-mail:** [apenasesdras@gmail.com](apenasesdras@gmail.com)
 - 🔗 **LinkedIn:** [Esdras Soares de Oliveira](https://www.linkedin.com/in/esdrasdeoliveira/)
 
 ## Status
