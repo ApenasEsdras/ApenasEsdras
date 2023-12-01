@@ -1,4 +1,4 @@
-# Olá, sou O Esdras de Oliveira
+# Bem vundo, Sou o Esdras de Oliveira...
 - 🔭 Atualmente, estou mergulhando no estudo de tecnologias e bibliotecas voltadas para o desenvolvimento web e mobile.
 - 🌱 Estou me especializando em React.js para o front-end e Flutter para o desenvolvimento mobile.
 
